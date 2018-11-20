@@ -8,7 +8,7 @@ from datetime import datetime
 import Adafruit_DHT as dht
 import random
 
-# type of sensor that we're using
+# type of sensor that we're usingaa
 SENSOR = dht.DHT22 	
 
 # pin which reads the temperature and humidity from sensor
